@@ -1,16 +1,15 @@
-# Splash Screen Right Way<br/>
-Right Way for showing a Splash Screen in android app<br/>
 
-### Tutorial is [here](https://medium.com/@cengiz.toru/do%C4%9Fru-splash-screen-haz%C4%B1rlama-bcbb401cf78c?source=---------2------------------)<br/>
+# Splash Screen Right Way
 
-<br/>
+### Aim of this sample is explaining showing a splash Screen in android app with right way
 
-## Wrong way for showing a splash Screen<br/>
-![Wrong way for splash screen](https://github.com/cengiztoru/SplashScreenRightWay/blob/master/screenshots/wrong%20way.gif)<br/>
+### Tutorial is [here](https://medium.com/@cengiz.toru/do%C4%9Fru-splash-screen-haz%C4%B1rlama-bcbb401cf78c?source=---------2------------------)
 
-<br/>
-<br/>
 
-## Right way for showing a splash Screen<br/>
-When app is loading white screen is must dont show<br/>
-![Wrong way for splash screen](https://github.com/cengiztoru/SplashScreenRightWay/blob/master/screenshots/right%20way.gif)<br/>
+##  Ways for showing a splash Screen
+---
+| Plugin | README |
+| ------ | ------ |
+| Right Way | Wrong Way|
+| No Any White Empty Screen | The application should not show a white screen when opening |
+| ![Wrong way for splash screen](https://github.com/cengiztoru/SplashScreenRightWay/raw/master/screenshots/right%20way.gif) | ![Wrong way for splash screen](https://github.com/cengiztoru/SplashScreenRightWay/raw/master/screenshots/wrong%20way.gif) |
